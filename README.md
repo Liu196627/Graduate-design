@@ -1,15 +1,29 @@
-# ####基于STM32的基于STM32的无线语音控制小车
+# 基于STM32的基于STM32的无线语音控制小车
 
-## 1、项目大概![image-20230601121438403](C:\Users\Administrator\AppData\Roaming\Typora\typora-user-images\image-20230601121438403.png)
+## 一、项目大概
 
-## 2、功能逻辑
+### 1、软件组成
 
-![image-20230601121513997](C:\Users\Administrator\AppData\Roaming\Typora\typora-user-images\image-20230601121513997.png)
+STM32主程序、声音识别程序、AndroidAPP程序
+
+### 2、硬件组成
+
+STM32 微处理器、HC-06蓝牙模块、LD3320声音识别模块、0.96寸OLED显示器、HC-SR04超声波传感器、L298N 电机驱动
+
+### 3、开发语言
+
+C语言、Java
+
+![image-20230601121438403](D:\Code\基于STM32的无线语音控制小车\image-20230601121438403-16856031334452-16856031352004-16856031376246.png)
+
+### 4、功能逻辑
+
+![image-20230601121513997](.\image\image-20230601121513997.png)
 
 ## 3、电路连接
 
-![image-20230601121551092](C:\Users\Administrator\AppData\Roaming\Typora\typora-user-images\image-20230601121551092.png)
+![image-20230601121551092](.\image\image-20230601121551092.png)
 
 ## 4、整体效果
 
-![image-20230601121612925](C:\Users\Administrator\AppData\Roaming\Typora\typora-user-images\image-20230601121612925.png)
+![image-20230601121612925](.\image\image-20230601121612925.png)
