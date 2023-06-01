@@ -1,4 +1,4 @@
-# ####基于STM32的基于STM32的无线语音控制小车
+# 基于STM32的基于STM32的无线语音控制小车
 
 ## 1、项目大概![image-20230601121438403](C:\Users\Administrator\AppData\Roaming\Typora\typora-user-images\image-20230601121438403.png)
 
