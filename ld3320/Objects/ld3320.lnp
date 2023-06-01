@@ -1,6 +1,0 @@
-".\Objects\main.obj",
-".\Objects\LDChip.obj",
-".\Objects\Reg_RW.obj",
-".\Objects\usart.obj" 
-TO ".\Objects\ld3320" 
-PRINT(".\Listings\ld3320.m51") RAMSIZE(256) 
